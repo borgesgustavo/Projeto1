@@ -1,4 +1,4 @@
 # Projeto1
  Repositório Versionado
  Projeto utilizando linguagem Python.
- Foco: Automação.
+ Foco: Automação/IA;
